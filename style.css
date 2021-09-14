@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+#text {
+	min-height: calc(50vh - 44px);
+	width: calc(100vw - 44px);
+	resize: none;
+	border: 2px black solid;
+	padding: 10px;
+	margin: 10px
+}
